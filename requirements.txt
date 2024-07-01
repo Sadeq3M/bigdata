@@ -5,7 +5,3 @@ matplotlib==3.4.3
 folium==0.12.2
 streamlit-folium==0.8.0
 numpy==1.21.4
-
-git add requirements.txt
-git commit -m "Update requirements.txt with specific package versions"
-git push origin main
